@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tonyl/anfaengerpraktikum/dijkstra.cpp
+iostream
+-
+algorithm
+-
+limits
+-
+priorityqueue.cpp
+/mnt/c/Users/tonyl/anfaengerpraktikum/priorityqueue.cpp
+graph.cpp
+/mnt/c/Users/tonyl/anfaengerpraktikum/graph.cpp
+utility
+-
+
+/mnt/c/Users/tonyl/anfaengerpraktikum/graph.cpp
+iostream
+-
+list
+-
+vector
+-
+fstream
+-
+sstream
+-
+cmath
+-
+
+/mnt/c/Users/tonyl/anfaengerpraktikum/priorityqueue.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+

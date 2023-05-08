@@ -1,0 +1,4 @@
+/mnt/c/Users/tonyl/anfaengerpraktikum/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tonyl/anfaengerpraktikum/build/CMakeFiles/graph.dir
+/mnt/c/Users/tonyl/anfaengerpraktikum/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tonyl/anfaengerpraktikum/build/CMakeFiles/my_lib.dir

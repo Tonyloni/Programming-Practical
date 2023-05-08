@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tonyl/anfaengerpraktikum/graph.cpp
+iostream
+-
+list
+-
+vector
+-
+
+/mnt/c/Users/tonyl/anfaengerpraktikum/main.cpp
+iostream
+-
+graph.cpp
+/mnt/c/Users/tonyl/anfaengerpraktikum/graph.cpp
+
